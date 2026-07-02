@@ -1,0 +1,3 @@
+SELECT *
+FROM orders
+ORDER BY total DESC;
